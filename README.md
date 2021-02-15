@@ -41,5 +41,7 @@ quadrant is `green`, and the lower right quadrant is `black`. Results of this ta
 ## Main part 
 In this part photo mosaic was implemented by using `python`. I implemented this task with different shapes: `circle` and `square`. It can be regulated inside python code. It can take a while in order to render your final photo, cause I used high-quality images for both dataset and input. 
 
+In order to run code just change directory to source folder and type `python main.py` or `python circle.py` in order to run code. Note that dataset and output folder, as well as python files should be located in the same folder.
+
 ## Good Luck!
 
