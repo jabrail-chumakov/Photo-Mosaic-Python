@@ -1,4 +1,4 @@
-# ROBT402: Image Processing Homework Project 1
+# ROBT403: Image Processing Homework Project 1
 Install Matlab, Python 3.6, as well as `cv2` and `numpy`.   
 
 ## Description
