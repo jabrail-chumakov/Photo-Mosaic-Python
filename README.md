@@ -1,4 +1,4 @@
-# Assignment 5 Part 2
+# ROBT402: Image Proccessing Homework Project 1
 Install Matlab, Python 3.6, as well as `cv2` and `numpy`.   
 
 ## Description
